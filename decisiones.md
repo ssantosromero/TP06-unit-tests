@@ -102,15 +102,8 @@ Se confirmaron los resultados del test desde la línea de comando:
 Passed!  - 2 passed, 0 failed
 Test Run Successful.
 
-4. Evidencias
 
-Capturas del pipeline ejecutado exitosamente en Azure DevOps.
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/08b6b3b8-4a7d-4e2a-96e1-d0b318847b55" />
-
-Logs en la terminal confirmando la ejecución correcta de los tests.
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/f814f51a-24e8-4f0f-b5d5-34b5431c773e" />
-
-5. Reflexión
+4. Reflexión
 
 Este trabajo permitió integrar pruebas unitarias automatizadas dentro de un pipeline de integración continua (CI), asegurando la calidad del software antes de cada commit.
 El ejercicio consolidó el uso de Azure DevOps, YAML Pipelines y agentes self-hosted, demostrando la importancia de validar el código de manera automatizada.
