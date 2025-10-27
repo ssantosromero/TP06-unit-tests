@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Decisiones de Desarrollo - TP06 DevOps Unit Tests Integration
 
 1. Configuración del Entorno
@@ -216,4 +215,4 @@ Aspectos aprendidos:
 - Ejecución local controlada desde el agente propio. 
 - Integración entre .NET, xUnit y Azure Pipelines. 
 - Flujo de trabajo continuo: build → test → validación automática. 
->>>>>>> 052e578 (c)
+
