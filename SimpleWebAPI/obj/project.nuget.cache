@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmCZSOAP+Xk=",
+  "success": true,
+  "projectFilePath": "/Users/santosromeroreyna/Desktop/facultad/quinto/ingsw3/TP06-unit-tests/SimpleWebAPI/SimpleWebAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/santosromeroreyna/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/santosromeroreyna/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

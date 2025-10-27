@@ -1,0 +1,20 @@
+trigger:
+  - main
+
+pool:
+  name: Default  # o el nombre de tu agente, por ejemplo "myagent" o "MacBook-Pro-de-Santos"
+
+stages:
+  - stage: BuildAndTest
+    displayName: "Build & Run Unit Tests"
+    jobs:
+      - job: Build
+        steps:
+          - checkout: self
+          - script: |
+              dotnet restore
+              dotnet build --no-restore
+              dotnet test --no-build --logger "trx;LogFileName=test_results.trx"
+            displayName: "Build and Run Tests"
+
+
