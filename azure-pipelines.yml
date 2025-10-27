@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: Default  # o el nombre de tu agente, por ejemplo "myagent" o "MacBook-Pro-de-Santos"
+  name: "MacBook-Pro-de-Santos"
 
 stages:
   - stage: BuildAndTest
