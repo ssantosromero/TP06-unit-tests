@@ -62,3 +62,4 @@
 /Users/santosromeroreyna/Desktop/facultad/quinto/ingsw3/TP06-unit-tests/SimpleWebAPI/obj/Debug/net9.0/SimpleWebAPI.pdb
 /Users/santosromeroreyna/Desktop/facultad/quinto/ingsw3/TP06-unit-tests/SimpleWebAPI/obj/Debug/net9.0/SimpleWebAPI.genruntimeconfig.cache
 /Users/santosromeroreyna/Desktop/facultad/quinto/ingsw3/TP06-unit-tests/SimpleWebAPI/obj/Debug/net9.0/ref/SimpleWebAPI.dll
+/Users/santosromeroreyna/Desktop/facultad/quinto/ingsw3/TP06-unit-tests/SimpleWebAPI/obj/Debug/net9.0/SimpleWebAPI.sourcelink.json
