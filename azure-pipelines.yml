@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  name: "MacBook-Pro-de-Santos"
+  name: Default
 
 stages:
   - stage: BuildAndTest
